@@ -1,0 +1,18 @@
+
+	Oyun baþladýðýnda oyunculara 4 er kaðýt daðýtýlýr. Yere 3 kapalý 1 açýk kaðýt konulur. Oyuncular sýrasýyla ellerindeki bir kaðýdý yerdekinin üstüne atarlar.
+
+	Elinde en üstte bulunan kaðýdýn aynýsýndan bulunan oyuncu onu atarak yerdeki bütün kaðýtlarý alýr.
+
+	Bunun dýþýnda vale(J) yerdeki kaðýdýn ne olduðuna bakýlmaksýzýn yerdeki bütün kaðýtlarý alan bir kaðýttýr.
+	
+	
+	Piþti: 10 puan.
+	As: Her Asýn deðeri 1 puandýr.
+	Sinek 2’li: 2 puan.
+	Karo 10’lu: 3 Puan.
+	Vale: 1 puandýr.
+	Kâðýt Sayýsý: Eldeki kâðýt sayýsý rakibe göre fazla ise 3 puan.
+
+	NOT: Her deste bitiminde oyuncularýn almýþ olduðu kaðýtlara yukarýdaki puanlarý vermektedir. Masa sahibi oyunun bitiþ puanýný 51,101,151,201 olarak seçebilir.Oyunculardan birisi bitiþ puanýný geçerse
+
+	oyun sona erer. En yüksek puan toplamýþ olan oyunu kazanmýþ olur. 
